@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin: 0%;
+    background-color: rgb(46, 57, 82);
+}
+
+@font-face{
+    font-family: digital-clock-font;
+    src: url('DigitalNumbers-Regular.ttf');
+}
+
+.contador{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 300px;
+    font-family: digital-clock-font;
+}
+
+#audio{
+    visibility: hidden;
+}
