@@ -3,12 +3,23 @@
 }
 
 body{
-    background-color: #1abc9c;
+    background-color: #63aec7ff;
     display: flex;
     align-items: center;
     justify-content: center;
     min-width: 100vh;
     margin: 0;
+}
+
+#tiempo{
+    width: 8rem;
+    height: 4rem;
+    border: 11px solid #2c3e50;
+    text-align: center;
+    color: #fff;
+    background-color: #f1c40f;
+    font-size: 2.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container{
